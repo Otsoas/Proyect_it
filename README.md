@@ -1,2 +1,2 @@
-# Proyecto_it
+# Proyect_it
 Prueba 
